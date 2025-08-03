@@ -1,0 +1,14 @@
+.chart-container {
+  width: 100%;
+  height: 400px;
+
+  direction: ltr; // ✅ force chart to render LTR
+}
+
+.price-display {
+  margin: 1rem 0;
+
+  .text-success {
+    color: green;
+  }
+}
