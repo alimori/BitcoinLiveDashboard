@@ -55,3 +55,5 @@ To start a local development server, run:
 ng serve
 ```
 
+![alt text](public/image.png)
+
