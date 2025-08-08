@@ -1,4 +1,4 @@
-# Angular + WebSocket + Karma & Jasmin
+# Angular19 + WebSocket + Karma & Jasmin
 ## An Angular example using WebSocket with Karma & Jasmine unit tests
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
